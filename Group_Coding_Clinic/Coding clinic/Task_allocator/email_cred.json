@@ -1,0 +1,16 @@
+{"user": 
+    {
+        "admin_email": "imogano@student.wethinkcode.co.za",
+        "iteration_dictionary": 
+        {
+            "iteration one":["Step one - Configure the system", "Step two - View Calendars", "Testing" ],
+            "iteration two":["Step three - Make a booking", "Step four - Volunteer slots", "Testing"],
+            "iteration three":["Step five - Cancel a booking", "Step six - Cancel volunteering", "Testing"],
+            "iteration bonus": ["Step seven", "Step eight", "Testing"]
+        },
+        "remainig_iterations": ["iteration three","iteration four"], 
+        "names": ["Chantel", "Jafta", "Corban", "Katlego", "Zanele", "Isaac"], 
+        "tdd_done": ["Jafta", "Katlego", "Corban", "Isaac"], 
+        "user_names": ["sminnaar@student.wethinkcode.co.za", "imogano@student.wethinkcode.co.za", "zmanyath@student.wethinkcode.co.za", "kmokoena@student.wethinkcode.co.za", "jmatabog@student.wethinkcode.co.za", "coloots@student.wethinkcode.co.za", "cskosana@student.wethinkcode.co.za"]
+        }
+    }

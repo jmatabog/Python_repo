@@ -1,0 +1,14 @@
+# Requirements
+# #You will need to run these in your terminal before running the program
+# - python3 : 
+#     Run pip3 install terminaltables
+#     Run pip3 install termcolor
+#     Run pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+# - User should have a WTC user account.
+
+terminaltables
+termcolor
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib

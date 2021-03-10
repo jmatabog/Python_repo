@@ -1,0 +1,15 @@
+#Modules used for this project are as follow:
+
+#- os
+#- sys
+#- json
+#- random
+#- smtplib
+#- getpass
+#- from io >> StringIO
+#- from datetime >> datetime
+#- from email.message >> EmailMessage
+
+#With Thanks
+
+getpass
